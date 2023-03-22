@@ -1,0 +1,17 @@
+.center_button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button_box {
+    padding: 10px;
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+}
+
+nav {
+    padding: 20px;
+}
